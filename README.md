@@ -1,7 +1,7 @@
 # A Modular Boolean Automata Framework for Multiscale Simulation of Cell Fate, Cycle, Differentiation, and Circadian Dynamics
 
 ## Summary 
-This repository provides C++ code for simulating Boolean network–based models of cellular decision-making.  
+This repository provides code for simulating Boolean network–based models of cellular decision-making.  
 The framework is modular, allowing different biological processes to be represented together in a unified way.  
 Rather than studying a single pathway in isolation, the aim here is to capture how various decision processes interact within the cell.  
 
