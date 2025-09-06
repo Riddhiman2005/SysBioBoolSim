@@ -11,6 +11,7 @@ To achieve this, we have developed four core modules, each modeled using Boolean
 2. **Cell Cycle (yeast-inspired) :** Captures progression through different cell cycle stages.  
 3. **Differentiation Switch (GATA-1/EPO signaling) :** Balances self-renewal vs. differentiation.  
 4. **Circadian Oscillator :** A two-state Boolean clock to track timing and synchronization.  
+<img width="638" height="539" alt="image (4)" src="https://github.com/user-attachments/assets/a0241e82-4744-4ac1-a8e2-6bb756cf5d4c" />
 
 #### Functioning
 - The modules are combined into an **agent-based simulation**.  
