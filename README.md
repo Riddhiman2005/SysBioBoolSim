@@ -21,7 +21,5 @@ To achieve this, we have developed four core modules, each modeled using Boolean
 ## Documentation
 Find the detailed documentation of SysBioBoolSim that contains the code for the
 implementation of the Boolean network in the manuscript.
-[Documentation](https://github.com/Riddhiman2005/SysBioBoolSim/raw/main/docsDocumentation.pdf)
-
-
+[Documentation](https://github.com/Riddhiman2005/SysBioBoolSim/raw/main/Documentation.pdf)
 
