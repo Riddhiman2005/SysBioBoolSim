@@ -18,13 +18,11 @@ To achieve this, we have developed four core modules, each modeled using Boolean
 - We run simulations for both **wild-type and mutant cases**.  
 - We explore **attractor landscapes** and **synchronization dynamics** across populations.  
 
-## What do we find?
+## Documentation
+Find the detailed documentation of SysBioBoolSim that contains the code for the
+implementation of the Boolean network in the manuscript.
+[Documentation](https://github.com/Riddhiman2005/SysBioBoolSim/raw/main/docsDocumentation.pdf)
 
-From simple Boolean rules, we observe complex and realistic behaviors:
-- Asynchronous cell cycles  
-- Mixed fate outcomes in populations  
-- Divergence of cell fate under mutations  
-- Circadian synchronization across cells
 
 ### References
 
