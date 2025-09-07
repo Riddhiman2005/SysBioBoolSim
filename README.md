@@ -12,8 +12,9 @@ To achieve this, we have developed four core modules, each modeled using Boolean
 3. **Differentiation Switch (GATA-1/EPO signaling) :** Balances self-renewal vs. differentiation.  
 4. **Circadian Oscillator :** A two-state Boolean clock to track timing and synchronization.  
 <p align="center">
-  <img src="structure.svg">
+  <img src="Structure.svg" width="1000">
 </p>
+
 
 #### Functioning
 - The modules are combined into an **agent-based simulation**.  
