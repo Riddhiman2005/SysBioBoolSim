@@ -1,4 +1,3 @@
-# A Modular Boolean Automata Framework for Multiscale Simulation of Cell Fate, Cycle, Differentiation, and Circadian Dynamics
 
 ## Summary 
 This repository provides code for simulating Boolean network–based models of cellular decision-making.  
