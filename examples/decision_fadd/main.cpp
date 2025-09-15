@@ -74,8 +74,8 @@ int main(int argc, char ** argv)
     std::cout << "APAF1 deletion,"; simule(bn::models::fadd::APAF1_del(1), tnf, fas);
     std::cout << "BAX deleteion,"; simule(bn::models::fadd::BAX_del(1), tnf, fas);
     std::cout << "BCL2 over expression,"; simule(bn::models::fadd::BCL2_expr(1), tnf, fas);
-    std::cout << "CASP8 deleteion,"; simule(bn::models::fadd::C8_del(1), tnf, fas);
-    std::cout << "constituvely activated CASP8,"; simule(bn::models::fadd::C8_expr(1), tnf, fas);
+    std::cout << "CASP8 deletion,"; simule(bn::models::fadd::C8_del(1), tnf, fas);
+    std::cout << "constitutively activated CASP8,"; simule(bn::models::fadd::C8_expr(1), tnf, fas);
     std::cout << "cFlip deletion,"; simule(bn::models::fadd::cFlip_del(1), tnf, fas);
     std::cout << "cIAP deletion,"; simule(bn::models::fadd::cIAP_del(1), tnf, fas);
     std::cout << "FADD deletion,"; simule(bn::models::fadd::FADD_del(1), tnf, fas);
