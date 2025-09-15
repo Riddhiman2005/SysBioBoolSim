@@ -15,7 +15,7 @@ namespace bn
                 state_type const & s)
         {
             static matrix_type const mat = {
-                //  Sueil  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
+                //  Threshold  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // TNF
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // FAS
                 0.1f,  1,  1,  0,  0, -3,  0,  0,  0,  0,  0,  0, // RIP1
@@ -35,7 +35,7 @@ namespace bn
                 state_type const & s)
         {
             static matrix_type const mat = {
-                //  Sueil  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
+                //  Threshold  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // TNF
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // FAS
                 0.1f,  1,  1,  0,  0, -3,  0,  0,  0,  0,  0,  0, // RIP1
@@ -55,7 +55,7 @@ namespace bn
                 state_type const & s)
         {
             static matrix_type const mat = {
-                //  Sueil  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
+                //  Threshold  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // TNF
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // FAS
                 0.1f,  1,  1,  0,  0, -3,  0,  0,  0,  0,  0,  0, // RIP1
@@ -75,7 +75,7 @@ namespace bn
                 state_type const & s)
         {
             static matrix_type const mat = {
-                //  Sueil  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
+                //  Threshold  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // TNF
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // FAS
                 0.1f,  1,  1,  0,  0, -3,  0,  0,  0,  0,  0,  0, // RIP1
@@ -95,7 +95,7 @@ namespace bn
                 state_type const & s)
         {
             static matrix_type const mat = {
-                //  Sueil  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
+                //  Threshold  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // TNF
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // FAS
                 0.1f,  1,  1,  0,  0, -3,  0,  0,  0,  0,  0,  0, // RIP1
@@ -115,7 +115,7 @@ namespace bn
                 state_type const & s)
         {
             static matrix_type const mat = {
-                //  Sueil  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
+                //  Threshold  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // TNF
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // FAS
                 0.1f,  1,  1,  0,  0, -3,  0,  0,  0,  0,  0,  0, // RIP1
@@ -135,7 +135,7 @@ namespace bn
                 state_type const & s)
         {
             static matrix_type const mat = {
-                //  Sueil  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
+                //  Threshold  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // TNF
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // FAS
                 0.1f,  1,  1,  0,  0, -3,  0,  0,  0,  0,  0,  0, // RIP1
@@ -155,7 +155,7 @@ namespace bn
                 state_type const & s)
         {
             static matrix_type const mat = {
-                //  Sueil  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
+                //  Threshold  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // TNF
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // FAS
                 0.1f,  1,  1,  0,  0, -3,  0,  0,  0,  0,  0,  0, // RIP1
@@ -175,7 +175,7 @@ namespace bn
                 state_type const & s)
         {
             static matrix_type const mat = {
-                //  Sueil  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
+                //  Threshold  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // TNF
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // FAS
                 0.1f,  1,  1,  0,  0, -3,  0,  0,  0,  0,  0,  0, // RIP1
@@ -195,7 +195,7 @@ namespace bn
                 state_type const & s)
         {
             static matrix_type const mat = {
-                //  Sueil  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
+                //  Threshold  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // TNF
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // FAS
                 0.1f,  1,  0,  0,  0, -2,  0,  0,  0,  0,  0,  0, // RIP1
@@ -215,7 +215,7 @@ namespace bn
                 state_type const & s)
         {
             static matrix_type const mat = {
-                //  Sueil  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
+                //  Threshold  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // TNF
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // FAS
                 0.1f,  1,  1,  0,  0, -3,  0,  0,  0,  0,  0,  0, // RIP1
@@ -235,7 +235,7 @@ namespace bn
                 state_type const & s)
         {
             static matrix_type const mat = {
-                //  Sueil  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
+                //  Threshold  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // TNF
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // FAS
                 0.1f,  1,  1,  0,  0, -3,  0,  0,  0,  0,  0,  0, // RIP1
@@ -255,7 +255,7 @@ namespace bn
                 state_type const & s)
         {
             static matrix_type const mat = {
-                //  Sueil  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
+                //  Threshold  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // TNF
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // FAS
                 9.1f,  1,  1,  0,  0, -3,  0,  0,  0,  0,  0,  0, // RIP1
@@ -275,7 +275,7 @@ namespace bn
                 state_type const & s)
         {
             static matrix_type const mat = {
-                //  Sueil  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
+                //  Threshold  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // TNF
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // FAS
                 0.1f,  1,  1,  0,  0, -3,  0,  0,  0,  0,  0,  0, // RIP1
@@ -295,7 +295,7 @@ namespace bn
                 state_type const & s)
         {
             static matrix_type const mat = {
-                //  Sueil  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
+                //  Threshold  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // TNF
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // FAS
                 0.1f,  1,  1,  0,  0, -3,  0,  0,  0,  0,  0,  0, // RIP1
@@ -315,7 +315,7 @@ namespace bn
                 state_type const & s)
         {
             static matrix_type const mat = {
-                //  Sueil  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
+                //  Threshold  TNF FAS RIP1 NFkB C8 cIAP ATP C3 ROS MOMP MPT
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // TNF
                 0.0f,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0, // FAS
                 9.1f,  1,  1,  0,  0, -3,  0,  0,  0,  0,  0,  0, // RIP1
